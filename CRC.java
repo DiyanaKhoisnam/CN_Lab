@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lab3Crc {
+public class CRC {
     public static String divide(char[] divident, char[] divisor) {
         int n = divident.length, m = divisor.length;
 
